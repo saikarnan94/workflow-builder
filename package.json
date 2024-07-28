@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
+    "serve": "vue-cli-service serve",
     "start": "nuxt start",
     "generate": "nuxt generate"
   },

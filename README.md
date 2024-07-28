@@ -2,7 +2,7 @@
 
 A Vue.js-based workflow builder application that allows users to drag and drop various components to create custom workflows. The application utilizes Vuetify for the UI components and supports draggable and resizable elements.
 
-![alt text](image.png)
+![Workflow Builder Screenshot](workflow_builder_screenshot.png)
 
 ## Features
 
@@ -39,10 +39,10 @@ To get started with the Workflow Builder, follow these steps:
 
 4. **Run the development server**:
     ```bash
-    npm run serve
+    npm run dev
     ```
 
-5. **Open your browser** and navigate to `http://localhost:8080`.
+5. **Open your browser** and navigate to localhost URL provided.
 
 ## Usage
 
