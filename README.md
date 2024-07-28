@@ -2,7 +2,7 @@
 
 A Vue.js-based workflow builder application that allows users to drag and drop various components to create custom workflows. The application utilizes Vuetify for the UI components and supports draggable and resizable elements.
 
-![Workflow Builder Screenshot](workflow_builder_screenshot.png)
+![Workflow Builder Screenshot](workflow_builder_screenshot.PNG)
 
 ## Features
 
